@@ -16,7 +16,7 @@ Pipeline de dados usando diversas ferramentas de uma stack moderna de engenharia
 ![RedditDataEngineering.png](assets%2FAirflow.png)
 
 # S3
-![RedditDataEngineering2.png](assets%2S3.png)
+![](https://github.com/Aleksalencar/DataEngineeringReddit/blob/main/assets/s3.png)
 
 Projeto original de: Yusuf Ganiyu
 * A maior parte de codigo foi parafraseado com objetivo fazer o projeto ficar funcional, observar como as tecnologias interagem e estudar novas ferramentas.
