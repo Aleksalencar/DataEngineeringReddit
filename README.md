@@ -2,7 +2,7 @@
 Projeto de um pipeline de dados desenvolvido como parte de um tutorial para aprender ferramentas de uma stack moderna de engenharia de dados como Python, Pyspark, Apache Airflow, Celery, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift.
 
 ## Melhorias e Personalizações
-- Adilção de testes unitarios
+- Adição de testes unitarios
 
 # Arquitetura
 - **Python**: Desenvolvimento dos ETLs, Criação dos DAG's e Operators, integração com Amazon S3
