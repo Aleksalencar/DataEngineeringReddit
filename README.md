@@ -1,6 +1,16 @@
 # Data Pipeline do Reddit
 Projeto de um pipeline de dados desenvolvido como parte de um tutorial para aprender ferramentas de uma stack moderna de engenharia de dados como Python, Pyspark, Apache Airflow, Celery, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift.
 
+
+## Overview
+O pipeline foi projetado para:
+
+1. Extrair dados do Reddit usando sua API.
+2. Armazenar os dados brutos em um bucket S3 do Airflow.
+3. Transformar os dados usando AWS Glue e Amazon Athena.
+4. Carregar os dados transformados no Amazon Redshift para análise e consulta.
+
+
 ## Melhorias e Personalizações
 - Adição de testes unitarios
 
